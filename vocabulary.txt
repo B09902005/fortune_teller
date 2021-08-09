@@ -8840,19 +8840,15 @@ fighter   n.
 鬥士；戰鬥機
 
 
-figuron/v.
+figure  /v.
 外貌；計算；描述
 
 
-fil
-。
-n./v.
+file  n./v.
 檔案；把...歸檔
 
 
-fill
-二
-/n.
+fill  n.
 裝滿
 
 
