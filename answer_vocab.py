@@ -24,7 +24,7 @@ while (True):
                      'n','o','p','q','r','s','t','u','v','w','x','y','z'}):
         english.append(a.split(' ')[0])
         noun.append(a.find('n.') != -1)
-        verb.append(a.find('v.') != -1)
+        verb.append((a.find('v.') != -1) and a.find('adv.') == -1)
         adj.append(a.find('adj.') != -1)
         adv.append(a.find('adv.') != -1)
         chinese.append('')
