@@ -6922,7 +6922,7 @@ distinction   n.
 區別
 
 
-distinctively   ad   v.
+distinctively   adv.
 有特色地
 
 
@@ -9696,7 +9696,7 @@ generous   adj.
 慷慨的
 
 
-generously   ad   v.
+generously   adv.
 慷慨地
 
 
@@ -10368,7 +10368,7 @@ happening   n.
 事件
 
 
-happily   ad   v.
+happily   adv.
 快樂的
 
 
@@ -10396,7 +10396,7 @@ harden   v.
 使變硬；使堅強
 
 
-hardly   ad   v.
+hardly   adv.
 幾乎不
 
 
@@ -15231,11 +15231,11 @@ overlook   v.
 俯視
 
 
-overnight   ad   v.
+overnight   adv.
 在昨夜
 
 
-overseas   adj./ad   v.
+overseas   adj./adv.
 來自海外的
 
 
@@ -15326,7 +15326,7 @@ painful   adj.
 痛苦的
 
 
-painfully   ad   v.
+painfully   adv.
 痛苦地
 
 
@@ -20762,7 +20762,7 @@ subscribe   v.
 訂購
 
 
-subsequently   ad   v.
+subsequently   adv.
 後來
 
 
